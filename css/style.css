@@ -943,7 +943,7 @@ ul.navbar-nav > li > a i {
 @media (max-width: 991px) {
   ul.navbar-nav > li > a i {
     float: right;
-    background: #222;
+    background: #23282d;
     padding: 6px 10px;
     margin-top: 7px;
   }
@@ -1008,7 +1008,7 @@ ul.navbar-nav > li > a {
 
 .dropdown-menu {
   text-align: left;
-  background: #fff;
+  background: #23282d;
   z-index: 100;
   min-width: 200px;
   border-radius: 0;
@@ -1016,12 +1016,10 @@ ul.navbar-nav > li > a {
   border-top: 2px solid #e16317;
   padding: 0 20px;
   margin: 0;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
 }
 
 @media (max-width: 991px) {
   .dropdown-menu {
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
   }
 }
 
@@ -1058,7 +1056,7 @@ ul.navbar-nav > li > a {
   padding: 15px 0;
   letter-spacing: .3px;
   border-bottom: 1px solid #e5e5e5;
-  color: #333333;
+  color: #fefeff;
 }
 
 @media (max-width: 991px) {
